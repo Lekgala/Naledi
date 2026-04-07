@@ -1,0 +1,21 @@
+<svg width="960" height="320" viewBox="0 0 960 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="960" height="320" rx="44" fill="#FFF4F7"/>
+  <g transform="translate(82 54)">
+    <circle cx="106" cy="106" r="106" fill="#FFE3EC"/>
+    <circle cx="106" cy="106" r="80" fill="#FFF9FB"/>
+    <circle cx="106" cy="35" r="28" fill="#F35D8D" fill-opacity="0.95"/>
+    <circle cx="161" cy="61" r="24" fill="#FF8CAF" fill-opacity="0.9"/>
+    <circle cx="177" cy="120" r="22" fill="#FFC8DA" fill-opacity="0.95"/>
+    <circle cx="134" cy="169" r="24" fill="#F7B4C8" fill-opacity="0.92"/>
+    <circle cx="76" cy="169" r="24" fill="#FFCCD9" fill-opacity="0.95"/>
+    <circle cx="35" cy="120" r="22" fill="#FFD9E5" fill-opacity="0.95"/>
+    <circle cx="51" cy="61" r="24" fill="#F8A5BE" fill-opacity="0.92"/>
+    <circle cx="106" cy="106" r="23" fill="#FFFFFF"/>
+    <path d="M106 72L113.6 96.4H139.2L118.4 111.4L126 136L106 121L86 136L93.6 111.4L72.8 96.4H98.4L106 72Z" fill="#F35D8D"/>
+  </g>
+  <g transform="translate(332 92)">
+    <text x="0" y="90" fill="#4D2D38" font-family="Georgia, 'Times New Roman', serif" font-size="92" letter-spacing="1.5">Naledi</text>
+    <text x="6" y="138" fill="#A17C89" font-family="'Trebuchet MS', 'Avenir Next', sans-serif" font-size="28" letter-spacing="4.5">A LITTLE LIGHT FOR YOUR RHYTHM</text>
+    <path d="M8 170C73 150 130 150 195 170" stroke="#F35D8D" stroke-width="6" stroke-linecap="round" opacity="0.75"/>
+  </g>
+</svg>

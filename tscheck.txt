@@ -1,0 +1,2 @@
+src/components/PhaseBanner.tsx(19,1): error TS1005: ')' expected.
+src/components/PhaseBanner.tsx(34,1): error TS1005: '}' expected.

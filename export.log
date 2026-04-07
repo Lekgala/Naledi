@@ -1,0 +1,1 @@
+CommandError: expo export:web can only be used with Webpack. Use expo export for other bundlers.
